@@ -1,9 +1,2 @@
 # mywebsite
-
-THIS IS SO COOL
-
-BLAH BLAH
-
-THIS IS GITHUB BRANCH
-
-Hey you!!!
+THIS IS MY FIRST
